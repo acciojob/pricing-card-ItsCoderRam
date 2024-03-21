@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:#cbced4;
+	margin:20px;
+	padding:15px;
+	box-shadow:0px 0px 10px 10px #a4a7ab;
+	width:600px;
+	height:800vh;
+}
+img{
+	width:300px;
+	height:300px;
+	padding:10px;
+	margin-left:120px;
+	margin-top:50px;
+	box-shadow:10px 10px 15pxpx #b2e619;
+	
+}
+h1{
+	text-align:center;
+}
+#price{
+	text-align:center;
+	font-style:"Arial";
+	font-size:20px;
+}
+#desc{
+	width:300px;
+	height:300px;
+	margin-left:120px;
+	text-align:center;
+	font-style:"Arial";
+	font-size:15px;
+}
+button{
+	background-color:#ff4d4d;
+	border-radius:10px;
+	padding:10px;
+	margin-left:250px;
+	margin-bottom:100px;
+	width:100px;
+	border:2px solid #ff1a1a;
+}
